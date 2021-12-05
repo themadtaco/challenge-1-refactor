@@ -8,7 +8,7 @@ Refactor Horiseon html and css code to meet accessibliity standards
 *CSS
 
 ## Website
-https://themadtaco.github.io/challenge-1-refactor/index.html
+https://themadtaco.github.io/challenge-1-refactor/
 
 ## Contribution
 Fabian
